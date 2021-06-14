@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: HomePage	</title>
+	<atom:link href="http://localhost/wordpress/home/feed/" rel="self" type="application/rss+xml" />
+	<link>//prince06031998.github.io/travelmate</link>
+	<description>Cuộc sống là những chuyến đi. Hãy cùng mình xách balo lên và đi nhé!</description>
+	<lastBuildDate>Mon, 14 Jun 2021 11:35:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Bởi: Nguyễn Hoàng Chí Bảo		</title>
+		<link>//prince06031998.github.io/travelmate/#comment-39</link>
+
+		<dc:creator><![CDATA[Nguyễn Hoàng Chí Bảo]]></dc:creator>
+		<pubDate>Mon, 14 Jun 2021 09:57:57 +0000</pubDate>
+		<guid isPermaLink="false">//prince06031998.github.io/travelmate/home/#comment-39</guid>
+
+					<description><![CDATA[yêu chị Lan!!]]></description>
+			<content:encoded><![CDATA[<p>yêu chị Lan!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Bởi: le lan		</title>
+		<link>//prince06031998.github.io/travelmate/#comment-35</link>
+
+		<dc:creator><![CDATA[le lan]]></dc:creator>
+		<pubDate>Mon, 14 Jun 2021 09:55:59 +0000</pubDate>
+		<guid isPermaLink="false">//prince06031998.github.io/travelmate/home/#comment-35</guid>
+
+					<description><![CDATA[like!!]]></description>
+			<content:encoded><![CDATA[<p>like!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
